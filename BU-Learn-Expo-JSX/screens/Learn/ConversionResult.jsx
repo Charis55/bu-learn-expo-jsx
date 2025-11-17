@@ -1,0 +1,1 @@
+import React from 'react';import {View,Text} from 'react-native';export default function ConversionResult(){return(<View><Text>ConversionResult</Text></View>);}

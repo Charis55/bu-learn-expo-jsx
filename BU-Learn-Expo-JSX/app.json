@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "BU-Learn-JSX",
+    "slug": "bu-learn-jsx",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "updates": {
+      "enabled": false,
+      "checkAutomatically": "never"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/images/icon.png",
+    "android": {
+      "package": "com.anonymous.bulearnjsx"
+    }
+  }
+}
